@@ -1,0 +1,19 @@
+1.0x000000ff 255 4278190080
+
+2.2 mA
+
+3.Name of file: shells
+
+Number of bytes: 179 bytes
+
+Number of files: 87
+
+steps of command:
+
+1. cd /etc
+
+2. ls
+
+3. ls -l | grep shells
+
+4. ls -l | wc -l 
